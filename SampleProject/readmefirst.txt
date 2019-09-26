@@ -8,6 +8,20 @@ Steps to create a PHP MySQL Project:
 7.Logout Section
 8.Insert View Update Delete Pages Creation (Only Access for Users!!!)
 -----------------------------------------------------------------------------
+In here I have made in this order:
+1.index
+2.register 
+3.login 
+4.db and tables without values
+5.checklogin
+6.home
+7.insert
+8.view
+9.edit
+10.delete
+11.logout
+
+-----------------------------------------------------------------------------
 * The folder should be stored in Htdocs (present in lampp/Xampp...)
 * http://localhost/folder_name/index.php
 * test the security of each and every webpages by using $_SESSION
